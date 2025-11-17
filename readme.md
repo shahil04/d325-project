@@ -1,14 +1,3 @@
-Below is a polished **README.md** file for your Excel dashboard project.
-I’ve included:
-✅ Project overview
-✅ Features
-✅ Data dictionary
-✅ Dashboard explanation
-✅ Screenshot embedding (with your uploaded image)
-You can copy-paste directly into GitHub.
-
----
-
 # 📊 **AI Jobs Analytics Dashboard — Excel Project**
 
 This project presents an interactive **AI Jobs Analytics Dashboard** built using **Microsoft Excel**.
@@ -24,6 +13,12 @@ It analyzes **15,000 job postings** from the AI & Data industry, helping users e
 
 The dashboard is designed with clean UI elements, slicers, and charts to provide an intuitive experience for recruiters, job seekers, and data analysts.
 
+
+# 📸 **Dashboard Screenshot**
+
+Below is the final dashboard view:
+
+![Dashboard Screenshot](https://github.com/shahil04/d325-project/blob/main/dashboard_page.png)
 ---
 
 ## 🚀 **Key Features**
@@ -138,3 +133,4 @@ If you’d like, I can also create:
 ✅ A version tailored for your LinkedIn posts
 
 Would you like that?
+
